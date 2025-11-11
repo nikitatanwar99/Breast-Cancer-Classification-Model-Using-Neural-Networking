@@ -18,13 +18,13 @@ This project uses the following tools and technologies:
 
 Python – data processing, model development, and evaluation
 
-Pandas / NumPy – data cleaning and feature engineering
+Pandas  – data cleaning and feature engineering
 
-Matplotlib / Seaborn – data visualization and exploratory analysis
+Matplotlib  – data visualization and exploratory analysis
 
 Scikit-learn – preprocessing and performance evaluation
 
-TensorFlow / Keras – designing and training the Neural Network model
+TensorFlow  – designing and training the Neural Network model
 
 Jupyter Notebook – experimentation, testing, and model documentation
 
@@ -75,7 +75,7 @@ Learn important diagnostic feature patterns automatically
 Enhance medical decision-making through AI-powered insights
 
 
-•** Deep Learning Modelling & Flow**
+•**Deep Learning Modelling & Flow**
 
 Data Understanding & Cleaning
 
@@ -93,7 +93,7 @@ Output layer with Sigmoid activation (for binary classification)
 
 Model Training & Evaluation
 
-Evaluated using Accuracy, Confusion Matrix, and Classification Report
+Evaluated using Accuracy
 
 Optimization & Fine-Tuning
 
@@ -102,8 +102,6 @@ Adjusted network architecture, batch size, and epochs
 Used regularization and dropout to reduce overfitting
 
 Model Saving & Deployment Preparation
-
-Final trained model exported using Pickle or Keras save model API
 
 
 • **Business Impact & Value**
