@@ -24,7 +24,7 @@ Matplotlib  – data visualization and exploratory analysis
 
 Scikit-learn – preprocessing and performance evaluation
 
-TensorFlow  – designing and training the Neural Network model
+TensorFlow & Keras  – designing and training the Neural Network model
 
 Jupyter Notebook – experimentation, testing, and model documentation
 
